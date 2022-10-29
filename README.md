@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 -  Currently taking A-level Computer Science, Physics, Maths, Cyber Security EPQ
--  Experienced in Python, Lua
+-  Experienced in Lua, Python (discord.py, opencv2, pillow, requests, selenium, turtle 💪)
 
 ### Currently learning:
   - C# (.NET 6.0)
@@ -38,6 +38,7 @@
 
 ### Looking to learn:
   - Rust, C, C++ (Non-game related)
+  - OpenGL
   - Full-stack development (I have barely touched web development, but if I do I want to do it well)
 
 ---
