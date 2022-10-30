@@ -1,4 +1,4 @@
-<center><h1>Shuppin</h1></center>
+<div align="center"><h1>Shuppin</h1></div>
 
 <a href="https://pusheen.tumblr.com/"><img align="right" width="110" height="100" src="https://cdn.discordapp.com/attachments/931281377570222181/1036047906182025329/pusheen.gif"></a>
 
