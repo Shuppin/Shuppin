@@ -25,7 +25,7 @@
     
    **Other**
    - Stage technicals (Lighting, pyro and sound) 
-   - Go-Karting (And racing when i'm enough to participate) 
+   - Go-Karting (And racing when i'm old enough to participate) 
    - Gaming (ok yes this is computer science related)
      - Fake rhythm gamer (osu! gamer)
      - Phantom Forces
@@ -33,7 +33,7 @@
      - Huge fan of the entire Half-Life series (And all the speed runners)
      - Portal 2 is one of the greatest games ever made
      - Literally any game that is sandbox, fps or racing
-    - Music Production
+   - Music Production
    
 
 ### Looking to learn:
